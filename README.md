@@ -1,6 +1,6 @@
 # Music Beats Store
 
-This is a web application that allows users to upload, view, and purchase music beats.
+This is a web application that allows users to upload, view, and delete
 
 ## Prerequisites
 
